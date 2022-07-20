@@ -1,4 +1,4 @@
-# DPS1
+# DPS
 
 DPS challenge for Artificial Intelligence internship
 
