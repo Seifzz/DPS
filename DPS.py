@@ -67,5 +67,5 @@ def Reg():
     regressor.fit(X, y)
 
     y_pred = regressor.predict([['202101', '0', '1']])
-    print('\nThe forecast is: ', round(y_pred[0]))
+    print('\nprediction: ', round(y_pred[0]))
 Reg()
