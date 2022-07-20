@@ -45,7 +45,7 @@ def Vis():
 
     # y_Ver = df.loc[df['MONATSZAHL'] == 'Verkehrsunfälle', 'WERT']
 
-# Vis()
+Vis()
 
 ##################################################################
 
